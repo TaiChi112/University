@@ -6,6 +6,8 @@ console.log(num);
 console.log(str);
 console.log(bool);
 
+console.log("Hello world!");
+
 
 
 
